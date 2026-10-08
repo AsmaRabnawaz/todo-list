@@ -5,11 +5,11 @@ body {
 }
 
 h1 {
-    margin-top: 50px;
+    margin-top: 55px;
 }
 
 input {
-    padding: 10px;
+    padding: 15px;
     width: 220px;
 }
 
@@ -22,5 +22,5 @@ li {
     list-style: none;
     margin: 10px;
     padding: 10px;
-    background-color: white;
+    background-color: rgb(108, 92, 92);
 }
